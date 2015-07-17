@@ -1,3 +1,3 @@
 # linux
 Linux编程
-记录Linux下的各种相关demo.
+记录Linux下的相关demo.
